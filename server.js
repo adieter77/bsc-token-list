@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 // YOUR TOKEN - EDIT THIS
 // ════════════════════════════════════════
 const TOKENS = {
-  "0x4737841176220ff9194d71f3c6fc9f6a2ab22dc6": {
+  "0x97C1681b726787ee0310eC5dB276014F1622396C": {
     name: "Tether USD Bridged ZED20",
     symbol: "USDT.z",
     decimals: 18,
